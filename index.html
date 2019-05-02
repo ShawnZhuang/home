@@ -7,6 +7,11 @@ layout: default
 </nav>
 
 <section id='content'>
+  <body>
+    {% include about_me.html %}
+  </body>
+
+
 {% for post in site.posts %}
   <article class='{{ post.type }}'>
     <a name='{{ post.url }}' href='#{{ post.url }}'>

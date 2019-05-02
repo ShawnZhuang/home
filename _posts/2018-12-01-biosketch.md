@@ -2,6 +2,6 @@
 path: '/login'
 title: 'Biosketch'
 
-layout: nil
+<!-- layout: nil -->
 ---
 ### hello world
