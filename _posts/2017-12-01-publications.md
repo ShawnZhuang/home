@@ -1,8 +1,7 @@
 ---
-category: sync
-path: '/sync'
-title: 'Publications'
-type: 'POST'
+path: '/login'
+title: 'Publication'
+
 
 <!-- layout: nil -->
 ---

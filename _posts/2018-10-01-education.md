@@ -17,3 +17,9 @@ Electronic Science and Engineering，  Xiamen University , China.
 中国 厦门大学  电子科学与技术  
 
 **主修课程**：数字信号处理，数字图像处理，微积分，微积分， 数理统计，数论
+
+### (Senior) High School
+2006.09 - 2009.06,  Fuzhou Lianjiang No.1 Middle School.
+
+### (Junior) High School
+2003.09 - 2006.06,  Fuzhou Lianjiang huang-ru-lun Middle School.

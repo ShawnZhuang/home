@@ -28,3 +28,4 @@ title: 'Personal Skills'
 * g-cov 代码覆盖率统计，
 * cmake 生成makefile
 * 软件设计模式
+* jekyll+github page 搭建个人主页

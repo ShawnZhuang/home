@@ -12,6 +12,8 @@
 ==== 静态修改
 - 简介 Biosketch
 - 研究方向 Research interests
+- News
+
 - 学历Education
 
 

@@ -1,12 +1,10 @@
 ---
-category: sync
-path: '/sync'
-title: 'Project Experiences'
-type: 'GET'
+path: '/login'
+title: 'Working Experience'
+
 
 <!-- layout: nil -->
 ---
-
 ### AI工具链算法工程师（TVM）--华为-2012实验室-(部门\*\*)
 (2018.05~ 至今)
 * 主导TVM代码开发，主导基于数据块计算的原语表达，解决尾块问题，设计IR指令替换架构，多输出问题
