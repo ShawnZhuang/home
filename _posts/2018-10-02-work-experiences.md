@@ -7,6 +7,9 @@ title: 'Working Experience'
 ---
 ### AI工具链算法工程师（TVM）--华为-2012实验室-(部门\*\*)
 (2018.05~ 至今)
+
+* 主导设计 boost schedule toolkit,auto cache 等特性设计
+* 主导分析deconv ,deconv+drelu 融合 特性分析和设计，落地AICORE 。(角色：SE)
 * 主导TVM代码开发，主导基于数据块计算的原语表达，解决尾块问题，设计IR指令替换架构，多输出问题
 * 分析resnet，mask-rcnn ，yolov3 等网络分析，实现和性能调优。
 * 搭建基于git+gerrit+jenkins 的自动化CI环境。
@@ -19,7 +22,7 @@ title: 'Working Experience'
 ### 基于时空编码的超快速四维磁共振波谱成像新技术。
  (2013.9~2016.7) 厦门大学研究生 | 国家自然基金项目 | 
 1. 根据压缩感知理论建立凸优化模型，求解不均匀场下扭曲图像矫正。
-2. 使用Matlab+CUDA C实现算法加速（GTX750 Ti），相比于8核CPU，速度提高80倍。
+2. 使用Matlab+CUDA C实现算法加速，相比于8核CPU，速度提高80倍。
 3. 研究进化算法（布谷鸟搜索，粒子群搜索） 
 
 ### 数学建模竞赛培训与参赛
