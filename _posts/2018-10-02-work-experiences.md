@@ -6,20 +6,20 @@ title: 'Working Experience'
 <!-- layout: nil -->
 ---
 ### AI 工具链算法工程师  -- 华为海思图灵解决方案技术部
-* 设计ISA 约束检测工具。
-* 新一代架构的PASS方案设计，2020.11 改进HalideIR，设计一种便于乱序重排的IR
+(2020.01 至今)
+
+* 2020.11 改进HalideIR，设计一种便于乱序重排的IR。在此基础上实现dimention fuse，concat等等功能。
+* 第二期思想招募，提出数据格式排布转换。获得一等奖。该创意获得计算产品线十佳创意。
 * 乱序预处理SPR 优化问题，解决 int64 大shape 升级
 * 2020.2 3D-UNET卷积反向 新冠疫情识别网络紧急攻关，conv3d训练的难题。快速解决公式推理和算子实现。
-* 第二期思想招募，提出数据格式排布转换。获得一等奖。
 * 2020.1 动态shape 预研，提出尾块处理和load3d动态shape设计方案。
+* 设计ISA 约束项检测工具，便于问题定位。
 
 ### AI工具链算法工程师（TVM）--华为-2012实验室-(部门\*\*)
-(2018.05~ 至今)
-* 主导设计 schedule toolkit, auto cache 等特性设计
-* 主导分析 con2d backward,deconv+drelu 融合 特性分析和设计，落地AICORE 。(角色：SE)
-* 主导TVM代码开发，主导基于数据块计算的原语表达，解决尾块问题，设计IR指令替换架构，多输出问题
-* 参与deeplab v3算子调优
-* 分析resnet，mask-rcnn ，yolov3 等网络分析，实现和性能调优。
+(2018.05~ 2019.12)
+* 主导网络训练卷积反向实现。分析 con2d backward（dx,dw） 融合特性。包含核心公式推理，方案实现分析和设计，落地AICORE。指导新员工迭代实现方案落地。
+* 深度分析TVM软件栈，包括前端DSL语言和算子实现，schedule PASS(inferbound，scheduleOps等te到tir的转化机制)，halideIR PASS 实现。主导TVM前后端协同开发，主要设计尾块方案，设计IR指令替换架构，多输出方案等。
+* 对resnet，mask-rcnn ，yolov3 等网络分析，实现和性能调优。分析auto schedule方案。设计 schedule toolkit, auto cache 等特性设计
 * 搭建基于git+gerrit+jenkins 的自动化CI环境。
 * 熟悉量化原理和算法，反量化重量化，以及量化参数的训练。
 
