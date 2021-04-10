@@ -4,6 +4,7 @@ TEMPLATES = $(HTML:.html=.js)
 LESS = $(wildcard lib/*/*.less)
 CSS = $(LESS:.less=.css)
 
+.PHONY: build
 build: components $(SRC) $(TEMPLATES) $(CSS)
 	@component build --verbose --out . --name assets
 

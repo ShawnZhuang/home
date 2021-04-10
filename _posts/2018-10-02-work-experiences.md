@@ -5,15 +5,23 @@ title: 'Working Experience'
 
 <!-- layout: nil -->
 ---
+### AI 工具链算法工程师  -- 华为海思图灵解决方案技术部
+* 设计ISA 约束检测工具。
+* 新一代架构的PASS方案设计，2020.11 改进HalideIR，设计一种便于乱序重排的IR
+* 乱序预处理SPR 优化问题，解决 int64 大shape 升级
+* 2020.2 3D-UNET卷积反向 新冠疫情识别网络紧急攻关，conv3d训练的难题。快速解决公式推理和算子实现。
+* 第二期思想招募，提出数据格式排布转换。获得一等奖。
+* 2020.1 动态shape 预研，提出尾块处理和load3d动态shape设计方案。
+
 ### AI工具链算法工程师（TVM）--华为-2012实验室-(部门\*\*)
 (2018.05~ 至今)
-
-* 主导设计 boost schedule toolkit,auto cache 等特性设计
-* 主导分析deconv ,deconv+drelu 融合 特性分析和设计，落地AICORE 。(角色：SE)
+* 主导设计 schedule toolkit, auto cache 等特性设计
+* 主导分析 con2d backward,deconv+drelu 融合 特性分析和设计，落地AICORE 。(角色：SE)
 * 主导TVM代码开发，主导基于数据块计算的原语表达，解决尾块问题，设计IR指令替换架构，多输出问题
+* 参与deeplab v3算子调优
 * 分析resnet，mask-rcnn ，yolov3 等网络分析，实现和性能调优。
 * 搭建基于git+gerrit+jenkins 的自动化CI环境。
-* 熟悉量化算法
+* 熟悉量化原理和算法，反量化重量化，以及量化参数的训练。
 
 ### 驱动开发工程师 华为-2012实验室-处理器技术部
 （2016.07-2018.05）
